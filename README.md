@@ -9,6 +9,22 @@
 [![](https://img.shields.io/badge/Gmail-aasheevyas@gmail.com-red)](mailto:aasheevyas@gmail.com)
 
 
+## Academic Background
+
+<span><strong>Professional Qualification :</strong></span><br><br>
+<ul>
+  <li><strong>BCA (CS)</strong> July 2015 - May 2018 From International Institute of Professional Studies, Indore with aggregate of <strong>8.71</strong> pointers.</li>
+  <li>Pursuing <strong>MCA (CS)</strong> June 2018 From International Institute of Professional Studies, Indore with <strong>8.59</strong> pointers.</li>
+</ul>
+<br>
+<span><strong>Educational Qualification :</strong></span><br><br>
+<ul>
+  <li><strong>12th (CBSE)</strong> from Sanmati Higher Secondary School, Indore with <strong>72.2%</strong>.</li>
+  <li><strong>10th (CBSE)</strong> from  Sanmati Higher Secondary School, Indore with <strong>8.6 CGPA</strong>.</li>
+</ul>
+<br>
+
+
 ## GitHub Status
 
 ![Aashee Vyas's github stats](https://github-readme-stats.vercel.app/api?username=Aashee01&show_icons=true&theme=radical)
