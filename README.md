@@ -8,7 +8,18 @@
 [![](https://img.shields.io/badge/StackOverFlow-Aashee01-important)](https://stackoverflow.com/users/13641256/aashee-vyas?tab=profile)
 [![](https://img.shields.io/badge/Gmail-aasheevyas@gmail.com-red)](mailto:aasheevyas@gmail.com)
 
+## About Me
 
+Ever since writing my first program and manipulate it to produce desired output , I have been obsessed with the of using software to solve practical problems. Software engineering is never ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve lives of the people around the world.
+
+Today I am an Experienced Software Engineer with a demonstrated history of working . Currently pursuing Master of Computer Application(MCA) from International Institute of Professional Studies. Along with coding , I love to do planting. Both pursuits challenges in so many aspects of intellect : creativity , optimistic, problem solving. This is what keeps me up, a never ending thirst to create powerful things to share them with the world
+<br>
+
+- 🌱 I’m currently learning State of Python
+- 🤝 I’m looking to Internship Opportunities
+
+<br>
+<br>
 ## Academic Background
 
 <span><strong>Professional Qualification :</strong></span><br><br>
