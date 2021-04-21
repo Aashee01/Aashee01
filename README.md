@@ -59,11 +59,42 @@ Today I am an Experienced Software Engineer with a demonstrated history of worki
         <span><strong>Object Oriented Programming</strong></span><br><br><br>
         <img height="64px" src="https://i.ytimg.com/vi/xoL6WvCARJY/maxresdefault.jpg">
       </td>
-      </tbody>
+      <td width="10%" align="center">
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png">
+      </td>
+
+   </tbody>
 
 </table>
 <br>
 <br>
+
+## Frontend Technologies
+<br>
+<br>
+<table>
+  <tbody>
+    <tr valign="top">
+      
+   <td width="10%" align="center">
+        <span><strong>HTML5</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>  
+      <td width="10%" align="center">
+        <span><strong>CSS3</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Materialize</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png">
+      </td>
+      </tbody>
+</table>
+<br>
+<br>
+
+
 
 
 
