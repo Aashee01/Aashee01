@@ -1,6 +1,10 @@
+<p align="auto">
+<img src="https://media.giphy.com/media/vpURqIvpuDguQ/giphy.gif" width=50%>
+</p>
+
+
 <h1 align= "center"><b>Hey there🙋‍♂️, This is Aashee Vyas!</b></h1>
 
-<img align='right' src="https://media.giphy.com/media/vpURqIvpuDguQ/giphy.gif" width='200"'>
 
 [![](https://img.shields.io/badge/LinkedIn-Aashee01-blue)](https://www.linkedin.com/in/aashee-vyas-189599158/)
 [![](https://img.shields.io/badge/HackerRank-Aashee01-brightgreen)](https://www.hackerrank.com/aasheevyas)
