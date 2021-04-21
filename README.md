@@ -20,6 +20,7 @@ Today I am an Experienced Software Engineer with a demonstrated history of worki
 
 <br>
 <br>
+
 ## Academic Background
 
 <span><strong>Professional Qualification :</strong></span><br><br>
