@@ -25,7 +25,7 @@ Today I am an Experienced Software Engineer with a demonstrated history of worki
 
 <span><strong>Professional Qualification :</strong></span><br><br>
 <ul>
-  <li><strong>bachelor of Computer Applications</strong> July 2015 - May 2018 From International Institute of Professional Studies, Indore with aggregate of <strong>8.71</strong> pointers.</li>
+  <li><strong>Bachelor of Computer Applications</strong> July 2015 - May 2018 From International Institute of Professional Studies, Indore with aggregate of <strong>8.71</strong> pointers.</li>
   <li>Pursuing <strong>Masters of Computer Applications</strong> June 2018 From International Institute of Professional Studies, Indore with <strong>8.59</strong> pointers.</li>
 </ul>
 <br>
@@ -48,8 +48,8 @@ Today I am an Experienced Software Engineer with a demonstrated history of worki
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="10%" align="center">
-        <span><strong>FLASK</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+        <span><strong>DBMS</strong></span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHbAKALovLA39x1e2bU8_WCj9OBXv-ZrDiSA&usqp=CAU">
       </td>
       <td width="10%" align="center">
         <span><strong>JAVA</strong></span><br><br><br>
