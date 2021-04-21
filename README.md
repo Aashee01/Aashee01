@@ -23,14 +23,14 @@
 
 <span><strong>Professional Qualification :</strong></span><br><br>
 <ul>
-  <li><strong>BCA (CS)</strong> July 2016 - May 2019 From International Institute of Professional Studies, Indore with aggregate of <strong>9.01</strong> pointers.</li>
-  <li>Pursuing <strong>MCA (CS)</strong> June 2019 From International Institute of Professional Studies, Indore.</li>
+  <li><strong>BCA (CS)</strong> July 2015 - May 2018 From International Institute of Professional Studies, Indore with aggregate of <strong>8.71</strong> pointers.</li>
+  <li>Pursuing <strong>MCA (CS)</strong> June 2018 From International Institute of Professional Studies, Indore with <strong>8.59</strong> pointers.</li>
 </ul>
 <br>
 <span><strong>Educational Qualification :</strong></span><br><br>
 <ul>
-  <li><strong>12th (CBSE)</strong> from S.S.R.V.M., Indore with <strong>82.4%</strong>.</li>
-  <li><strong>10th (MPBSE)</strong> from S.J.H.S.S., Barwani with <strong>85.5%</strong>.</li>
+  <li><strong>12th (CBSE)</strong> from Sanmati Higher Secondary School, Indore with <strong>72.2%</strong>.</li>
+  <li><strong>10th (CBSE)</strong> from  Sanmati Higher Secondary School, Indore with <strong>8.6 CGPA</strong>.</li>
 </ul>
 <br>
 
