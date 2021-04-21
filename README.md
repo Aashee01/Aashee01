@@ -57,7 +57,7 @@ Today I am an Experienced Software Engineer with a demonstrated history of worki
       </td>
       <td width="10%" align="center">
         <span><strong>Object Oriented Programming</strong></span><br><br><br>
-        <img height="64px" src="data:image/jpeg">
+        <img height="64px" src="https://i.ytimg.com/vi/xoL6WvCARJY/maxresdefault.jpg">
       </td>
       </tbody>
 
