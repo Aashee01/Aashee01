@@ -36,6 +36,36 @@ Today I am an Experienced Software Engineer with a demonstrated history of worki
 </ul>
 <br>
 
+## Interest and Skills
+<br>
+<br>
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="10%" align="center">
+        <span><strong>PYTHON</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>FLASK</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>JAVA</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Object Oriented Programming</strong></span><br><br><br>
+        <img height="64px" src="data:image/jpeg">
+      </td>
+      </tbody>
+
+</table>
+<br>
+<br>
+
+
 
 ## GitHub Status
 
