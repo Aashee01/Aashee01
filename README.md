@@ -94,7 +94,35 @@ Today I am an Experienced Software Engineer with a demonstrated history of worki
 <br>
 <br>
 
-
+<span><strong>Tools </strong></span><br><br>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="10%" align="center">
+        <span><strong>Visual Studio</strong></span><br><br><br>
+        <img height="64px"  width="64px" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png?raw=true">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>PyCharm</strong></span><br><br><br>
+        <img height="64px"  width="64px" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png?raw=true">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Atom</strong></span><br><br><br>
+        <img height="64px"  width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/atom.png?raw=true">
+      </td>
+      
+   <td width="10%" align="center">
+        <span><strong>NetBeans</strong></span><br><br><br>
+        <img height="64px"  width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/netbeans.png?raw=true">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Eclipse</strong></span><br><br><br>
+        <img height="64px"  width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/eclipse.png?raw=true">
+      </td>
+      
+  </tbody>
+</table>
+<br>
 
 
 
@@ -107,21 +135,6 @@ Today I am an Experienced Software Engineer with a demonstrated history of worki
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aashee01.Aashee01)
 <br>
 
-
-## Academic Records
-
-<span><strong>Professional Qualification :</strong></span><br><br>
-<ul>
-  <li><strong>BCA (CS)</strong> July 2015 - May 2018 From International Institute of Professional Studies, Indore with aggregate of <strong>8.71</strong> pointers.</li>
-  <li>Pursuing <strong>MCA (CS)</strong> June 2018 From International Institute of Professional Studies, Indore with <strong>8.59</strong> pointers.</li>
-</ul>
-<br>
-<span><strong>Educational Qualification :</strong></span><br><br>
-<ul>
-  <li><strong>12th (CBSE)</strong> from Sanmati Higher Secondary School, Indore with <strong>72.2%</strong>.</li>
-  <li><strong>10th (CBSE)</strong> from  Sanmati Higher Secondary School, Indore with <strong>8.6 CGPA</strong>.</li>
-</ul>
-<br>
 
 
 Here are some ideas to get you started:
