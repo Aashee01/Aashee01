@@ -113,7 +113,7 @@ Today I am an Experienced Software Engineer with a demonstrated history of worki
       
    <td width="10%" align="center">
         <span><strong>NetBeans</strong></span><br><br><br>
-        <img height="64px"  width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/netbeans.png?raw=true">
+        <img height="64px"  width="64px" src="https://seeklogo.com/images/N/NetBeans-logo-C762AE6DB8-seeklogo.com.png?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>Eclipse</strong></span><br><br><br>
@@ -134,17 +134,3 @@ Today I am an Experienced Software Engineer with a demonstrated history of worki
 <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aashee01.Aashee01)
 <br>
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
