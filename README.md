@@ -1,7 +1,12 @@
-### Hi there 👋
+<h1 align= "center"><b>Hey there🙋‍♂️, This is Aashee Vyas!</b></h1>
 
-<!--
-**Aashee01/Aashee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+[![](https://img.shields.io/badge/LinkedIn-Aashee01-blue)](https://www.linkedin.com/in/aashee-vyas-189599158/)
+[![](https://img.shields.io/badge/HackerRank-Aashee01-brightgreen)](https://www.hackerrank.com/aasheevyas)
+[![](https://img.shields.io/badge/GeeksForGeeks-Aashee01-brightgreen)](https://auth.geeksforgeeks.org/user/aasheevyas/practice/)
+[![](https://img.shields.io/badge/StackOverFlow-Aashee01-important)](https://stackoverflow.com/users/13641256/aashee-vyas?tab=profile)
+[![](https://img.shields.io/badge/Gmail-aasheevyas@gmail.com-red)](mailto:aasheevyas@gmail.com)
 
 Here are some ideas to get you started:
 
