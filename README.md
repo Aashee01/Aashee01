@@ -18,6 +18,7 @@ Today I am an Experienced Software Engineer with a demonstrated history of worki
 
 - 🌱 I’m currently learning State of Python
 - 🤝 I’m looking to Internship Opportunities
+- <b> Experience - Completed 3 months of internship as System Engineer at Infosys Pvt Ltd </b>
 
 <br>
 <br>
